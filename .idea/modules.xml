@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ShivNotes.iml" filepath="$PROJECT_DIR$/.idea/modules/ShivNotes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ShivNotes_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ShivNotes_main.iml" group="ShivNotes" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ShivNotes_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ShivNotes_test.iml" group="ShivNotes" />
+    </modules>
+  </component>
+</project>
